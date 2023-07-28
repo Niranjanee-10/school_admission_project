@@ -1,0 +1,23 @@
+.adhome{
+    width: 450px;
+    
+    overflow: hidden;
+    margin: 30 0 0 30px;
+    margin:auto;
+    padding: 60px;
+    backdrop-filter: blur(250px);
+    border-radius: 15px;
+    color:black;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    background-image: url(https://classroomclipart.com/images/gallery/Animations/Education_School/TN_bulletin_board_812.gif);  
+    background-size:cover ;
+    background-position-x: center;
+  
+  
+
+
+    
+      
+    }
